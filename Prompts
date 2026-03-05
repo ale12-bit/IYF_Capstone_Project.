@@ -1,0 +1,61 @@
+ # Mealshare – Recipe Sharing & Meal Planning App – Project Prompt
+Project Goal
+To build a mobile-friendly recipe sharing and meal planning app that allows users to share, discover, and plan meals with AI help, focusing on global cuisines, especially African recipes.
+
+Target Users
+- Food enthusiasts & home cooks
+- Catering schools & students
+
+Main Features
+- User registration and login
+- Profile creation (user or catering school)
+- Recipe posting, liking, saving
+- Bulk recipe sharing for catering schools
+- TasteBuddy AI recipe suggestions
+- Community forum + events
+- Follow users
+- Recipe collections (for catering schools)
+- Notifications for updates
+
+Pages / Layout
+- Home Page (Introduction and featured recipes)
+- Sign Up / Login Page
+- User Dashboard
+- Recipe Gallery Page
+- Custom Recipe Page
+- Community Page
+- Profile Settings Page
+
+UI Style Requirements
+- Clean and modern food-inspired design
+- Soft neutral colors (Primary: Warm Beige, Accents: Fresh Green, Text: Dark Gray)
+- Elegant fonts (stylish but readable)
+- High-quality food images
+- Card-based layout for recipes
+- Responsive design (mobile-first approach)
+- Simple navigation bar at top or bottom
+
+State Management Needs
+- Store logged-in user session
+- Save user preferences
+- Manage recipe likes, comments
+- Store selected recipes temporarily
+- Real-time updates for recipe progress
+
+Authentication Needs
+- Users must sign up and log in
+- Email and password authentication
+- Role-based access (User or Catering School)
+- Password reset option
+- Secure data storage
+
+Design Constraints
+- Must be mobile-friendly
+- Must load quickly
+- Simple and easy-to-use interface
+- Secure user data protection
+- Follow modern UI/UX best practices
+- Must work properly on both Android and iPhone browsers
+
+Tagline
+_sharing meals, building a community_
